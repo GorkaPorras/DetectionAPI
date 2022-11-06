@@ -1,0 +1,17 @@
+#maps{
+    display:block;
+    margin:auto;
+    margin-top: 5%;
+    max-width: 30%;
+    max-height: 30%;
+    
+    }
+.container{
+padding-bottom: 10%;
+
+
+}
+.cursor,
+#maps:hover {
+    cursor: pointer;
+  }

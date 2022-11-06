@@ -1,0 +1,4 @@
+Flask
+mysql-connector
+Pillow
+opencv-python
