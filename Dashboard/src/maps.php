@@ -5,7 +5,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="initial-scale=1.0">
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA4MN3MEoA5F5iU-P4w_yFenO9nSAv8_KQ" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=//KEY_API//" async defer></script>
 
     <link rel="stylesheet" href="CSS/maps.css">
     <script src="JS/maps.js"></script>
